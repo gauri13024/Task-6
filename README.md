@@ -13,15 +13,15 @@ Name and message fields must not be empty
 
 Email must match standard format using regex
 
-❌ Displays inline error messages for invalid inputs
+ Displays inline error messages for invalid inputs
 
-💌 Shows a success message on valid submission (simulated, no backend)
+ Shows a success message on valid submission (simulated, no backend)
 
-🌈 Fully responsive and centered form layout
+ Fully responsive and centered form layout
 
-🖱️ Attractive “Submit →” button with gradient styling
+ Attractive “Submit →” button with gradient styling
 
-🧪 Tested for edge cases: empty inputs, invalid formats, special characters
+ Tested for edge cases: empty inputs, invalid formats, special characters
 
 🔧 Technologies Used
 HTML5 – Form structure
